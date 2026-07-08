@@ -49,6 +49,7 @@ URLS = [
     'http://drewlive2423.duckdns.org:8045/DrewLive/DrewLive.xml.gz', 
     'http://mains.services/xmltv.php?username=tmo247line&password=65s4d64vgfdfbae4&type=m3u_plus', 
     'https://github.com/insa-ship-it/app-m3u-generator/raw/refs/heads/main/playlists/tubi_epg.xml', 
+    'https://github.com/insa-ship-it/RakutenTV/raw/refs/heads/main/epg.xml', 
     
 ]
 
